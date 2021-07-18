@@ -1,0 +1,126 @@
+.top {
+    background-image: url("https://wallpaperaccess.com/full/2413558.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 700px;
+}
+
+.navBar, .innerBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.navButton,.text {
+    margin-left: 30px;
+    margin-right: 30px;
+    color: white;
+}
+.navButton,.icon{
+    font-size: 30px;
+}
+#marginSett {
+    margin-top: 190px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+.text {
+    font-size: 70px;
+}
+.buttonChoices {
+    margin-left: 80px;
+}
+.info {
+    background-color: transparent;
+    border-color:orange;
+    color: orange;
+    height: 50px;
+    width: 150px;
+    border-radius: 25px;
+}
+.info:hover{
+    background-color: orange;
+    color: white;
+}
+
+.middle1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inner1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.orangeLine {
+    width: 150px;
+    size:10px;
+    color:orange;
+}
+.randomText {
+    width: 900px;
+    color: grey;
+}
+
+.containerMain {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.randomText2 {
+    color: gray;
+}
+.marginLeft {
+    margin-left: 10px;
+    width: 300px;
+}
+
+.picture {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.foodImg{
+    width: 370px;
+    height: 300px;
+}
+
+#tutorial {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.paragraph {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+}
+.centerColumn {
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+
+.containerLeft {
+    display: flex;
+    justify-content: flex-end;
+}
+.ontainerMiddle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
